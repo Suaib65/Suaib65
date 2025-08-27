@@ -57,6 +57,7 @@
   <a href="www.linkedin.com/in/suaib9" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="81" height="20" alt="linkedin logo"  />
   </a>
+  <a href="[www.instagram.com/su.a.ib/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="81" height="20" alt="instagram logo"  />
 </div>
 
