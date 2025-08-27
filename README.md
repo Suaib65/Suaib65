@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to my oasis🌴</h1>
+<h1 align="left">Welcome to my dev oasis🌴</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🐞 Debugging life since 2024...<br>📖 At the moment, I’m diving into learning Data Science.<br>🎯 Ambitions: Master ML/AI and data visualization.<br>🎉 Quirk: Obsessed with "🐍" (Python).</p>
+<p align="left">🐞 Debugging life since 2024...<br>📖 At the moment, I’m diving into learning Data Science.<br>🎯 Ambitions: Master ML/AI and data visualization.<br>🎉 Quirk: Obsessed with "🐍" (.py).</p>
 
 ###
 
