@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to my oasis🌴</h1>
+<h1 align="left">Welcome to my Oasis🌴</h1>
 
 ###
 
