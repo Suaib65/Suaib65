@@ -40,13 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2025 - To: 16 November 2025
+From: 10 November 2025 - To: 17 November 2025
 
-JavaScript   21 mins         ███████▓░░░░░░░░░░░░░░░░░   30.87 %
-JSON         19 mins         ███████░░░░░░░░░░░░░░░░░░   27.54 %
-Markdown     15 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
-CSV          8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-CSS          3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
