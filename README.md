@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🐞 Been debugging life since 2025...<br>📖 At the moment, I’m diving into learning Data Science.<br>🎯 Ambitions: Master ML/AI, Data Engineering.<br>🎉 Quirk: Obsessed with "🐍" (.py).</p>
+<p align="left">🐞 Been debugging life since 2025...<br>📖 At the moment, I’m diving into learning Data Science.<br>🎯 Ambitions: Data Analysis, Data Engineering.<br>🎉 Quirk: Obsessed with "🐍" (.py).</p>
 
 ###
 
