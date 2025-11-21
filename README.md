@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a CS undergrad skilled in programming, software development and a knack for AI, machine learning, and Data Science.</p>
+<p align="left">I'm a CS undergrad skilled in programming, mainly data driven solution with Data Analysis and Data Engineering and a knack for AI.</p>
 
 ###
 
