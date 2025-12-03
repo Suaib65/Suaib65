@@ -40,9 +40,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2025 - To: 30 November 2025
+From: 24 November 2025 - To: 01 December 2025
 
-HTML   17 mins         █████████████████████████   100.00 %
+HTML         23 mins         ████████████████▓░░░░░░░░   66.74 %
+JavaScript   11 mins         ████████▒░░░░░░░░░░░░░░░░   33.26 %
 ```
 
 <!--END_SECTION:waka-->
