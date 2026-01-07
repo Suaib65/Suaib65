@@ -40,10 +40,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 05 January 2026
+From: 30 December 2025 - To: 06 January 2026
 
-CSV   18 mins         ██████████████▒░░░░░░░░░░   56.70 %
-SQL   14 mins         ██████████▓░░░░░░░░░░░░░░   43.30 %
+SQL   14 mins         ██████████████▓░░░░░░░░░░   58.39 %
+CSV   10 mins         ██████████▒░░░░░░░░░░░░░░   41.61 %
 ```
 
 <!--END_SECTION:waka-->
