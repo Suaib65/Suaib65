@@ -40,11 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2026 - To: 09 February 2026
+From: 03 February 2026 - To: 10 February 2026
 
-JSON         2 mins          ████████████████████░░░░░   80.45 %
-JavaScript   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
-HTML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
