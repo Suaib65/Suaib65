@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">CSE undergrad skilling mainly towards data driven solutions with Data Analysis and Data Engineering and a knack for AI and Machine Learning.</p>
+<p align="left">CS undergrad skill-ing towards data driven solutions with Data Analysis and Data Engineering and a knack for AI and Machine Learning.</p>
 
 ###
 
