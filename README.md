@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🐞 Been debugging life since 2025...<br>📖 At the moment, I’m diving into learning Data Engineering.<br>🎯 Hobby: Squeezing confessions from stubborn datasets.<br>🎉 And also: Teaching $ilicon how to dream...🤖💭✨</p>
+<p align="left">🐞 Been debugging life since 2025...<br>📖 At the moment: Am diving into learning Data Science/Engineering.<br>🎯 Hobby: Squeezing confessions from stubborn datasets.<br>🎉 And also: Teaching $ilicon how to dream...🤖💭✨</p>
 
 ###
 
